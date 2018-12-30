@@ -1,0 +1,23 @@
+.fa-eye {
+    color: rgb(7, 133, 138);
+}
+
+.fa-edit {
+    color: rgb(255, 198, 11);
+}
+
+.fa-trash-alt {
+    color: rgb(216, 17, 17);
+}
+
+#btn {
+    margin: 5px;
+}
+
+#reset {
+    margin: 5px;
+}
+
+.row {
+    background-color: aliceblue;
+}
