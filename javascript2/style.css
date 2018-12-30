@@ -1,0 +1,23 @@
+.fa-eye {
+    color: rgb(24, 175, 10);
+}
+
+.fa-marker {
+    color: rgb(17, 178, 228);
+}
+
+.fa-trash {
+    color: rgb(216, 17, 17);
+}
+
+.fa-save {
+    color: rgb(17, 178, 228);
+}
+
+#btn, #reset {
+    margin: 5px;
+}
+
+.row {
+    background-color: aliceblue;
+}
